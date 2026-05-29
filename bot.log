@@ -1,0 +1,124 @@
+2026-05-27 20:29:32,721 [INFO] =======================================================
+2026-05-27 20:29:32,721 [INFO]   BOT DE OFERTAS — Tiendas: ripley, falabella, paris, pcfactory
+2026-05-27 20:29:32,721 [INFO]   Intervalo: 5 min | Umbral bajada: 3%
+2026-05-27 20:29:32,721 [INFO] =======================================================
+2026-05-27 20:29:32,722 [INFO] Base de datos 'ofertas.db' lista.
+2026-05-27 20:29:32,722 [INFO] ─── Nuevo ciclo ───────────────────────────────
+2026-05-27 20:29:32,722 [INFO] ━━━ Procesando RIPLEY ━━━
+2026-05-27 20:29:32,722 [INFO] [Ripley] Scrapeando: https://simple.ripley.cl/tecno?source=menu
+2026-05-27 20:29:35,192 [INFO] [Ripley] 56 items encontrados en https://simple.ripley.cl/tecno?source=menu
+2026-05-27 20:29:35,207 [INFO] [Ripley] Scrapeando: https://simple.ripley.cl/electro?source=menu
+2026-05-27 20:29:37,644 [INFO] [Ripley] 54 items encontrados en https://simple.ripley.cl/electro?source=menu
+2026-05-27 20:29:37,657 [INFO] [Ripley] Total únicos: 42
+2026-05-27 20:29:37,660 [INFO] [RIPLEY] Nuevos:0 Bajadas:0 Subidas:0 Sin cambios:42
+2026-05-27 20:29:37,660 [INFO] ━━━ Procesando FALABELLA ━━━
+2026-05-27 20:29:37,660 [INFO] [Falabella] Scrapeando: https://www.falabella.com/falabella-cl/category/cat7090034/Tecnologia?&f
+2026-05-27 20:29:38,111 [INFO] [Falabella] 28 items encontrados
+2026-05-27 20:29:38,116 [INFO] [Falabella] Scrapeando: https://www.falabella.com/falabella-cl/category/cat4152/Television-y-Video
+2026-05-27 20:29:38,699 [INFO] [Falabella] 0 items encontrados
+2026-05-27 20:29:38,699 [INFO] [Falabella] Total únicos: 1
+2026-05-27 20:29:38,699 [INFO] [FALABELLA] Nuevos:0 Bajadas:0 Subidas:0 Sin cambios:1
+2026-05-27 20:29:38,699 [INFO] ━━━ Procesando PARIS ━━━
+2026-05-27 20:29:38,699 [INFO] [Paris] Scrapeando: https://www.paris.cl/tecnologia/computacion/
+2026-05-27 20:29:40,279 [ERROR] Error descargando https://www.paris.cl/tecnologia/computacion/: 404 Client Error: Not Found for url: https://www.paris.cl/tecnologia/computacion/
+2026-05-27 20:29:40,281 [INFO] [Paris] Scrapeando: https://www.paris.cl/tecnologia/television/
+2026-05-27 20:29:41,551 [ERROR] Error descargando https://www.paris.cl/tecnologia/television/: 404 Client Error: Not Found for url: https://www.paris.cl/tecnologia/television/
+2026-05-27 20:29:41,552 [INFO] [Paris] Total únicos: 0
+2026-05-27 20:29:41,552 [WARNING] [paris] Sin productos extraídos. ¿Cambió el HTML?
+2026-05-27 20:29:41,553 [INFO] ━━━ Procesando PCFACTORY ━━━
+2026-05-27 20:29:41,553 [INFO] [PCFactory] Scrapeando: https://www.pcfactory.cl/notebooks
+2026-05-27 20:29:42,463 [INFO] [PCFactory] 0 items encontrados
+2026-05-27 20:29:42,463 [INFO] [PCFactory] Scrapeando: https://www.pcfactory.cl/monitores
+2026-05-27 20:29:43,384 [INFO] [PCFactory] 0 items encontrados
+2026-05-27 20:29:43,385 [INFO] [PCFactory] Total únicos: 0
+2026-05-27 20:29:43,385 [WARNING] [pcfactory] Sin productos extraídos. ¿Cambió el HTML?
+2026-05-27 20:29:43,385 [INFO] Durmiendo 5 min...
+
+2026-05-27 20:33:16,558 [INFO] =======================================================
+2026-05-27 20:33:16,559 [INFO]   BOT DE OFERTAS — Tiendas: ripley, falabella, paris, pcfactory
+2026-05-27 20:33:16,559 [INFO]   Intervalo: 5 min | Umbral bajada: 3%
+2026-05-27 20:33:16,559 [INFO] =======================================================
+2026-05-27 20:33:16,560 [INFO] Base de datos 'ofertas.db' lista.
+2026-05-27 20:33:16,560 [INFO] ─── Nuevo ciclo ───────────────────────────────
+2026-05-27 20:33:16,560 [INFO] ━━━ Procesando RIPLEY ━━━
+2026-05-27 20:33:16,560 [INFO] [Ripley] Scrapeando: https://simple.ripley.cl/tecno?source=menu
+2026-05-27 20:33:19,312 [INFO] [Ripley] 56 items encontrados en https://simple.ripley.cl/tecno?source=menu
+2026-05-27 20:33:19,325 [INFO] [Ripley] Scrapeando: https://simple.ripley.cl/electro?source=menu
+2026-05-27 20:33:22,495 [INFO] [Ripley] 54 items encontrados en https://simple.ripley.cl/electro?source=menu
+2026-05-27 20:33:22,508 [INFO] [Ripley] Total únicos: 42
+2026-05-27 20:33:22,511 [INFO] [RIPLEY] Nuevos:0 Bajadas:0 Subidas:0 Sin cambios:42
+2026-05-27 20:33:22,511 [INFO] ━━━ Procesando FALABELLA ━━━
+2026-05-27 20:33:22,511 [INFO] ====== WebDriver manager ======
+2026-05-27 20:33:23,365 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-27 20:33:23,636 [INFO] There is no [win64] chromedriver "148.0.7778.178" for browser google-chrome "148.0.7778" in cache
+2026-05-27 20:33:23,953 [INFO] There is no [win64] chromedriver "148.0.7778.178" for browser google-chrome "148.0.7778" in cache
+2026-05-27 20:33:23,954 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-27 20:33:24,591 [INFO] WebDriver version 148.0.7778.178 selected
+2026-05-27 20:33:24,595 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-27 20:33:24,595 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-27 20:33:25,011 [INFO] Driver downloading response is 200
+2026-05-27 20:33:25,198 [INFO] Driver has been saved in cache [C:\Users\basti\.wdm\drivers\chromedriver\win64\148.0.7778.178]
+2026-05-27 20:33:26,472 [INFO] [Falabella] Scrapeando con Selenium: https://www.falabella.com/falabella-cl/category/cat7090034/Tecnologia?&f
+2026-05-27 20:33:47,803 [ERROR] [Falabella] Error cargando página https://www.falabella.com/falabella-cl/category/cat7090034/Tecnologia?&f: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7f2bb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7f2bb7e50+14900]
+	chromedriver!(No symbol) [0x7ff7f291d5ad]
+	chromedriver!(No symbol) [0x7ff7f2977822]
+	chromedriver!(No symbol) [0x7ff7f2977b2c]
+	chromedriver!(No symbol) [0x7ff7f29c7d17]
+	chromedriver!(No symbol) [0x7ff7f29c486f]
+	chromedriver!(No symbol) [0x7ff7f2969df8]
+	chromedriver!(No symbol) [0x7ff7f296ace3]
+	chromedriver!GetHandleVerifier [0x7ff7f2eccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7f2ec7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7f2eebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7f2bd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7f2bdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7f2bc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7f2bc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7f2ba60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ff8ff0d7374+14]
+	ntdll!RtlUserThreadStart [0x7ff9007bcc91+21]
+
+2026-05-27 20:33:47,803 [INFO] [Falabella] Scrapeando con Selenium: https://www.falabella.com/falabella-cl/category/cat4152/Television-y-Video
+2026-05-27 20:34:05,750 [ERROR] [Falabella] Error cargando página https://www.falabella.com/falabella-cl/category/cat4152/Television-y-Video: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7f2bb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7f2bb7e50+14900]
+	chromedriver!(No symbol) [0x7ff7f291d5ad]
+	chromedriver!(No symbol) [0x7ff7f2977822]
+	chromedriver!(No symbol) [0x7ff7f2977b2c]
+	chromedriver!(No symbol) [0x7ff7f29c7d17]
+	chromedriver!(No symbol) [0x7ff7f29c486f]
+	chromedriver!(No symbol) [0x7ff7f2969df8]
+	chromedriver!(No symbol) [0x7ff7f296ace3]
+	chromedriver!GetHandleVerifier [0x7ff7f2eccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7f2ec7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7f2eebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7f2bd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7f2bdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7f2bc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7f2bc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7f2ba60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ff8ff0d7374+14]
+	ntdll!RtlUserThreadStart [0x7ff9007bcc91+21]
+
+2026-05-27 20:34:07,886 [INFO] [Falabella] Total únicos extraídos: 0
+2026-05-27 20:34:07,886 [WARNING] [falabella] Sin productos extraídos. ¿Cambió el HTML?
+2026-05-27 20:34:07,887 [INFO] ━━━ Procesando PARIS ━━━
+2026-05-27 20:34:07,887 [INFO] [Paris] Scrapeando: https://www.paris.cl/tecnologia/computacion/
+2026-05-27 20:34:08,891 [ERROR] Error descargando https://www.paris.cl/tecnologia/computacion/: 404 Client Error: Not Found for url: https://www.paris.cl/tecnologia/computacion/
+2026-05-27 20:34:08,892 [INFO] [Paris] Scrapeando: https://www.paris.cl/tecnologia/television/
+2026-05-27 20:34:09,904 [ERROR] Error descargando https://www.paris.cl/tecnologia/television/: 404 Client Error: Not Found for url: https://www.paris.cl/tecnologia/television/
+2026-05-27 20:34:09,905 [INFO] [Paris] Total únicos: 0
+2026-05-27 20:34:09,905 [WARNING] [paris] Sin productos extraídos. ¿Cambió el HTML?
+2026-05-27 20:34:09,905 [INFO] ━━━ Procesando PCFACTORY ━━━
+2026-05-27 20:34:09,905 [INFO] [PCFactory] Scrapeando: https://www.pcfactory.cl/notebooks
+2026-05-27 20:34:10,837 [INFO] [PCFactory] 0 items encontrados
+2026-05-27 20:34:10,837 [INFO] [PCFactory] Scrapeando: https://www.pcfactory.cl/monitores
+2026-05-27 20:34:11,762 [INFO] [PCFactory] 0 items encontrados
+2026-05-27 20:34:11,763 [INFO] [PCFactory] Total únicos: 0
+2026-05-27 20:34:11,763 [WARNING] [pcfactory] Sin productos extraídos. ¿Cambió el HTML?
+2026-05-27 20:34:11,763 [INFO] Durmiendo 5 min...
+
